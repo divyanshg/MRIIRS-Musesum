@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "museum-377716",
+  "private_key_id": "95fe3cde9362b265e225d9a4f35fb8978424145f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDE5KjvVj4/Yjog\nKnXHohUXLshlGcAeuwQRkkx7WxHiYHUso8uR4ORUINPzThb9lYf2ogsKxQWntv0w\nF8lpj5CAFYTfAum/MLkJcKK9ZC57y9F8lpQ6mmkG0tr9hnZ/ceW7suhNw1ykwKyH\nSstbzt3xDUaQW6j0KHIajalPXXDSui2oGGXPQnelRW2tPvFVf9jjKKiGcpy+4YPD\nzw/vVcwIn6Xqbh+Bm60tjVEHbKSZ6AiqQh4PJgT9lscIl4xeaN4YogV9YY9+vMns\nopSKw1GogypdJr7HINxQQL1nGa+1g/JXGHhlYvgG33r4snXKfuzRU52Aj1Pn5XEC\nEgOCvq3VAgMBAAECggEAJAj/fDJKGTqmjb2Hqd5ZwtDun0ZLubQbpgWjFs6PouFp\ngJ6Hwu6oi1cow3Zu0cF8zWBR6gouI0hj5VntJHNAjJijpVc4paPKsdYaCtSbh0/B\nyu4aOfGJuFR9/PmPlXqog6ZWSuku+v5CdU50kpx1VUlLOV91OB5w57g2nQ5qeD6F\nq5msqfcfHzuPo8nwVenxqGAY6tAE42r6b2pSvdwIbnBfKT3RSS8OmXHS8DRkoA3g\nL6li0/g0Aa70aTZsLdQF+1xfra0aCRwysUi4WGyKbCutPnm47gH8qotgZHfO+xWY\nxSGrP9xFvGuk9u1pAdwZVvLH92oK6XafRGOr9skJzwKBgQDk4C10cIA75OZXlMlP\nCPJJZG0v4uL5k4/K2tornkBnpGFBbP9hcRL0AgQCzWXXBsg6ZqT1Bwqx1nciUiDm\nBMkuqf59nAJdzDJogtKHhd6NBHF04VNVYJeA1TIY6t/Zwu4mOfZ0oXk1qEmQNcWR\nWtQgNBRdHCJ0Wng7owHctSRrawKBgQDcOiu2rHEK1g1YS18wZNtYD2azaLrqu+k4\nCCecRObFx+Nk3ynFhiNTqYQGkQkO8Go8FZX/+Hjkv0+/r9cJogamBbgYEskt9TYh\n/h4A+oCAXtR6My9shbs2DgvbzJxILaEUjCZ/0k7/jlqjlKKDUbsvwIOVVW56Sjdl\nxvvpJ4rbvwKBgEb+xvrMfuqVSWI3c+6BPu7HKRtmjLOQM1VgZ7aKAz5i/gwWbG1k\nbtWj3mykHAgEQY3kEx0yjv21IgVSZoQTTficoKWEBDPmSGik0/tX6j3h9/OihYAB\nU12SRFT4XnGlBsxyxGFPSVL8nb0PAPbirtRCc2KifImNGqidGtHEmsR7AoGBAIVZ\nR8zVv6EjGXOEOAAyocpBkRtDaCLoY4BFF878vYu2zE7w/fcXkN6Av2vGeGiuVHVL\nUMdsqa9A1EYqcBfqHwJ6Zg1VmrGUUBHnMD3BcPvJ7/iKc8XPeBt0B+QwkdT2pBmv\n/0PYkXMWvHVec8T2QVTZyhMrZrjvpXmgMjrscZ07AoGASFlVqltYwoshOf4BH5Qp\nUqyyGAgft/L+FnsWmLFoCUEoWXQNDWSJh/pkZ7pfX2CrnmJ+kSNsUnH4/sY/3tVb\nF5PJop9ia/dgyAGwhXhQrZexmOdg7Twc4WS5NZfTXHPJiBPFbIPwezmFMfraY+Db\ntEXow7NaEk7vSHzm2XJxHJc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "divyansh-gupta@museum-377716.iam.gserviceaccount.com",
+  "client_id": "106941183208889545088",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/divyansh-gupta%40museum-377716.iam.gserviceaccount.com"
+}
